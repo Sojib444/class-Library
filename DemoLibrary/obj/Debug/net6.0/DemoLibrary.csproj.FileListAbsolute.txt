@@ -1,0 +1,12 @@
+H:\Software Engineering\Devskill-Asp.net MVC\Practice\DemoLibrary\DemoLibrary\bin\Debug\net6.0\DemoLibrary.deps.json
+H:\Software Engineering\Devskill-Asp.net MVC\Practice\DemoLibrary\DemoLibrary\bin\Debug\net6.0\DemoLibrary.dll
+H:\Software Engineering\Devskill-Asp.net MVC\Practice\DemoLibrary\DemoLibrary\bin\Debug\net6.0\DemoLibrary.pdb
+H:\Software Engineering\Devskill-Asp.net MVC\Practice\DemoLibrary\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.AssemblyReference.cache
+H:\Software Engineering\Devskill-Asp.net MVC\Practice\DemoLibrary\DemoLibrary\obj\Debug\net6.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+H:\Software Engineering\Devskill-Asp.net MVC\Practice\DemoLibrary\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfoInputs.cache
+H:\Software Engineering\Devskill-Asp.net MVC\Practice\DemoLibrary\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfo.cs
+H:\Software Engineering\Devskill-Asp.net MVC\Practice\DemoLibrary\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.CoreCompileInputs.cache
+H:\Software Engineering\Devskill-Asp.net MVC\Practice\DemoLibrary\DemoLibrary\obj\Debug\net6.0\DemoLibrary.dll
+H:\Software Engineering\Devskill-Asp.net MVC\Practice\DemoLibrary\DemoLibrary\obj\Debug\net6.0\refint\DemoLibrary.dll
+H:\Software Engineering\Devskill-Asp.net MVC\Practice\DemoLibrary\DemoLibrary\obj\Debug\net6.0\DemoLibrary.pdb
+H:\Software Engineering\Devskill-Asp.net MVC\Practice\DemoLibrary\DemoLibrary\obj\Debug\net6.0\ref\DemoLibrary.dll
